@@ -1,0 +1,9 @@
+.btn-orange {
+  background-color: #f50; /* Adjust the color to match your brand */
+  border: none;
+}
+
+.btn-orange:hover {
+  background-color: #f60; /* Slightly lighter or darker for hover effect */
+}
+

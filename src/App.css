@@ -1,0 +1,82 @@
+.App {
+  text-align: center;
+  font-family: 'Arial', sans-serif;
+  color: #333;
+  margin: 0;
+  padding: 0;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+}
+
+.navbar-dark .navbar-brand {
+  color: #fff;
+}
+@media (min-width: 992px) { /* Adjust this breakpoint to the one you are using, 992px is for Bootstrap's 'lg' breakpoint */
+  .navbar-nav {
+    flex-direction: row;
+  }
+
+  .navbar-collapse {
+    justify-content: flex-end; /* This will push the nav to the right */
+  }
+}
+.hero-section {
+  background-color: #333;
+  color: white;
+  padding: 50px 0;
+}
+
+.hero-section .company-name {
+  font-size: 3rem;
+}
+
+.hero-section .tagline {
+  font-size: 1.5rem;
+  margin: 20px 0;
+}
+
+.hero-section .explore-button {
+  font-size: 1rem;
+  padding: 10px 20px;
+}
+
+.image-gallery {
+  padding: 50px 0;
+  flex-grow: 1;
+ 
+}
+
+.image-gallery h2 {
+  font-size: 2rem;
+  margin-bottom: 30px;
+  color: #333;
+}
+
+.card {
+  transition: transform .2s; /* Animation */
+  border-radius: 15px; /* Rounded corners for the card */
+  overflow: hidden; /* Ensures that the child elements (like images) are clipped to the card's rounded corners */
+  
+}
+
+.card:hover {
+  transform: scale(1.05);
+}
+
+.card-img-top {
+  border-top-left-radius: 15px; /* Rounds the top left corner of the image */
+  border-top-right-radius: 15px; /* Rounds the top right corner of the image */
+}
+
+.footer {
+  background-color: #333;
+  color: white;
+  text-align: center;
+  padding: 20px 0;
+}
+
+/* Ensure that the footer sticks to the bottom of the page */
+.footer {
+  margin-top: auto;
+}
