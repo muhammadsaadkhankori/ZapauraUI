@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/static/css/main.cdcbc44c.chunk.css",
+    "main.js": "/static/js/main.9af15017.chunk.js",
+    "main.js.map": "/static/js/main.9af15017.chunk.js.map",
+    "runtime~main.js": "/static/js/runtime~main.b5ede664.js",
+    "runtime~main.js.map": "/static/js/runtime~main.b5ede664.js.map",
+    "static/css/2.cc82f8aa.chunk.css": "/static/css/2.cc82f8aa.chunk.css",
+    "static/js/2.39a4ef15.chunk.js": "/static/js/2.39a4ef15.chunk.js",
+    "static/js/2.39a4ef15.chunk.js.map": "/static/js/2.39a4ef15.chunk.js.map",
+    "static/js/3.607b9e36.chunk.js": "/static/js/3.607b9e36.chunk.js",
+    "static/js/3.607b9e36.chunk.js.map": "/static/js/3.607b9e36.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.08a723b7404ebb62042dc3b5baeb06e5.js": "/precache-manifest.08a723b7404ebb62042dc3b5baeb06e5.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/2.cc82f8aa.chunk.css.map": "/static/css/2.cc82f8aa.chunk.css.map",
+    "static/css/main.cdcbc44c.chunk.css.map": "/static/css/main.cdcbc44c.chunk.css.map",
+    "static/media/FinalVideo.mp4": "/static/media/FinalVideo.a3968d1b.mp4",
+    "static/media/VR_Gallery__Museum__Baked.jpg": "/static/media/VR_Gallery__Museum__Baked.6cea07bf.jpg",
+    "static/media/Vr_art_gallery.jpg": "/static/media/Vr_art_gallery.2793e277.jpg",
+    "static/media/australian_Art_gallery.jpg": "/static/media/australian_Art_gallery.90f67c52.jpg",
+    "static/media/metaverseConcert.jpg": "/static/media/metaverseConcert.c8ae76f6.jpg",
+    "static/media/metaverse_art_gallery.jpg": "/static/media/metaverse_art_gallery.3a18a7ac.jpg",
+    "static/media/streetScene.jpg": "/static/media/streetScene.7a6f9b2c.jpg"
+  }
+}
